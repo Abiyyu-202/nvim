@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# 💤 MalazVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+vim vim envim, kalo misal ga ganti ganti OS aku ga bakal buat repo ini
